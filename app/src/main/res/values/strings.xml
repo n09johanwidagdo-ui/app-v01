@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xambro</string>
+    <string name="start_url">https://script.google.com/macros/s/AKfycbx9U9IkRKYy_K3nlPyiwNFXtYdkhryiSmr2tmJHhSLQeb8tHTy9u-hRCr9zHXipxq3JTw/exec</string>
+
+    <!-- Alarm peringatan sematan layar (mode ujian) -->
+    <string name="pinning_violation_title">⚠️ PERINGATAN UJIAN</string>
+    <string name="pinning_violation_message">PERINGATAN! Anda mencoba keluar dari aplikasi ujian.\n\nPelanggaran ke-%1$d tercatat untuk sesi ini.\nTetap berada di dalam aplikasi hingga ujian selesai. Tindakan ini dapat dilaporkan ke pengawas ujian.</string>
+    <string name="pinning_violation_confirm">Saya Mengerti</string>
+</resources>
